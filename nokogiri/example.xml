@@ -1,0 +1,12 @@
+<Order xmlns="blablablabla.xsd" xmlns:core="blobloblo/core.xsd">
+  <OrderHeader>
+    <OrderNumber>
+      <BuyerOrderNumber>14666</BuyerOrderNumber>
+      <AnotherNode>
+        <core:ImportantThing>
+          Some Important Value
+        </core:ImportantThing>
+      </AnotherNode>
+    </OrderNumber>
+  </OrderHeader>
+</Order>
